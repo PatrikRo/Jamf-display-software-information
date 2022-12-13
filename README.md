@@ -3,7 +3,7 @@
 ## About
 Script to display software information for use in jamf self service app.
 
-Display: 
+Displays: 
 * Product name
 * Product version
 * Build version
